@@ -7,3 +7,4 @@ dist/
 .venv/
 *.tmp
 .pytest_cache/
+tmp/

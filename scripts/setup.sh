@@ -12,3 +12,4 @@ echo "LibreUIUX-Claude-Code"
 # clarify the control flow
 # match the style used in the rest of the module
 # match the style used in the rest of the module
+# avoid re-reading the config on every call

@@ -31,3 +31,4 @@ Notes and usage details for LibreUIUX-Claude-Code.
 - link the usage section
 - link the usage section
 - fix a small wording issue
+- clarify the setup steps

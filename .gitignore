@@ -10,3 +10,4 @@ dist/
 tmp/
 coverage/
 .cache/
+.vscode/
